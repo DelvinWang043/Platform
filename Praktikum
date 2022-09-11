@@ -34,6 +34,42 @@
                 <th width ="75" height="15" style="background-color : deepskyblue">19-20</th>
                 <th width ="75" height="15" style="background-color : deepskyblue">20-21</th>
             </tr>
+            <tr>
+                <center><td width ="75" height="50" style="background-color : deepskyblue">Senin</td></center>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="background-color: deepskyblue;">Strategi Algoritma Kelas D</td>
+                <td style="background-color: deepskyblue;">Strategi Algoritma Kelas D</td>
+                <td style="background-color: deepskyblue;">Strategi Algoritma Kelas D</td>
+                <td style="background-color: deepskyblue;">Administrasi Kelas A</td>
+                <td style="background-color: deepskyblue;">Administrasi Kelas A</td>
+                <td style="background-color: deepskyblue;">Administrasi Kelas A</td>
+                <td style="background-color: deepskyblue;">Pemrograman Platform Kelas A</td>
+                <td style="background-color: deepskyblue;">Pemrograman Platform Kelas A</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+                <tr>
+                <td width ="75" height="50" style="background-color : deepskyblue">Selasa</td>
+                <td></td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas A</td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas A</td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas A</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="background-color: deepskyblue;">RPL Kelas A</td>
+                <td style="background-color: deepskyblue;">RPL Kelas A</td>
+                <td style="background-color: deepskyblue;">RPL Kelas A</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
             </table>    
 </body>
 </html>
