@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    body{
+        background-color: rgb(230, 251, 255);
+    }
+    table,td, th{
+        border :1px solid rgb(0, 0, 0);
+    }
+</style>
+</head>
+<body>
+<title>Jadwal Kuliah Mahasiswa</title>
+        <table width="100%" height="550">
+<tr>
+                <center><td width ="75" height="50" style="background-color : deepskyblue">Jumat</td></center>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="background-color: deepskyblue;">KT Kelas B</td>
+                <td style="background-color: deepskyblue;">KT Kelas B</td>
+                <td style="background-color: deepskyblue;">KT Kelas B</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+                <tr>
+                <center><td width ="75" height="50" style="background-color : deepskyblue">Sabtu</td></center>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>                
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </table>    
+</body>
+</html>
