@@ -70,6 +70,42 @@
                 <td></td>
                 <td></td>
             </tr>
+            <tr>
+                <center><td width ="75" height="50" style="background-color : deepskyblue">Rabu</td></center>
+                <td></td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas A</td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas A</td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas A</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas AP</td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas AP</td>
+                <td style="background-color: deepskyblue;">Pengenalan Pola Kelas AP</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+                <tr>
+                <center><td width ="75" height="50" style="background-color : deepskyblue">Kamis</td></center>
+                <td></td>
+                <td style="background-color: deepskyblue;">Pemrograman Platform Kelas AP</td>
+                <td style="background-color: deepskyblue;">Pemrograman Platform Kelas AP</td>
+                <td style="background-color: deepskyblue;">Pemrograman Platform Kelas AP</td>
+                <td style="background-color: deepskyblue;">RPL Kelas AP</td>
+                <td style="background-color: deepskyblue;">RPL Kelas AP</td>
+                <td style="background-color: deepskyblue;">RPL Kelas AP</td>
+                <td></td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas AP</td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas AP</td>
+                <td style="background-color: deepskyblue;">Algo Optimasi Kelas AP</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
             </table>    
 </body>
 </html>
